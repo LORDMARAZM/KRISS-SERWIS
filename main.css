@@ -10,7 +10,7 @@ a {
 
 .hero-img {
   position: absolute;
-  background: url("../images/foto_3.jpg");
+  background: url("images/foto_3.jpg");
   opacity: 0.4;
   background-size: cover;
   background-position-x: 50%;
